@@ -96,7 +96,7 @@ Todo: Learn how to convert older version of crx to new crx version
 
     Check the Selenium4Grid.md file
 
-###Resources
+### Resources
 
 List of Chromium Command Line Switches \
 https://peter.sh/experiments/chromium-command-line-switches/
